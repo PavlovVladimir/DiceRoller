@@ -1,2 +1,2 @@
 # DiceRoller
- Simple android app
+ Simple android app for Kotlin beginners.
